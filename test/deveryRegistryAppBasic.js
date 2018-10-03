@@ -16,7 +16,7 @@ contract('DeveryRegistry - App - basic tests', function (accounts) {
         contractAddress = contract.address
     })
 
-    it('should create a new contract instance without throwing exception', async function () {
+    it.skip('should create a new contract instance without throwing exception', async function () {
         new DeveryRegistry();
     })
 
