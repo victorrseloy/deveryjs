@@ -1,11 +1,11 @@
 # Devery.js
-<p align="center">
+
+_Build decentralised apps on the Devery Protocol using Javascript_
 [![npm version](https://badge.fury.io/js/%40devery%2Fdevery.svg)](https://badge.fury.io/js/%40devery%2Fdevery)
 
 [![Coverage Status](https://coveralls.io/repos/github/victorrseloy/deveryjs/badge.svg)](https://coveralls.io/github/victorrseloy/deveryjs)
 
 [![Build Status](https://travis-ci.com/victorrseloy/deveryjs.svg?branch=master)](https://travis-ci.com/victorrseloy/deveryjs)
-</p>
 
 Javascript library for the Devery protocol.
 
