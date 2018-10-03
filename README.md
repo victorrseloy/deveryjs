@@ -4,6 +4,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/victorrseloy/deveryjs/badge.svg)](https://coveralls.io/github/victorrseloy/deveryjs)
 [![Build Status](https://travis-ci.com/victorrseloy/deveryjs.svg?branch=master)](https://travis-ci.com/victorrseloy/deveryjs)
 [![Maintainability](https://api.codeclimate.com/v1/badges/f5a2904113541f7f668f/maintainability)](https://codeclimate.com/github/victorrseloy/deveryjs/maintainability)
+[![Inline docs](http://inch-ci.org/github/victorrseloy/deveryjs.svg?branch=master)](http://inch-ci.org/github/victorrseloy/deveryjs)
 
 Javascript library for the Devery protocol.
 
