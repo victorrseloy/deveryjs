@@ -73,7 +73,7 @@
     "ethers": "^3.0.15",
     "inchjs": "^0.4.1",
     "truffle": "^4.1.14",
-    "webpack": "^4.6.0",
+    "webpack": "^4.26.0",
     "xmlhttprequest": "^1.8.0"
   }
 }
